@@ -1,0 +1,13 @@
+# This file contains values from Cookiecutter
+
+default_context:
+  project_name: "pycensus"
+  project_description: "A Modern wrapper for the United States Census Bureau's API. With over 1,000 Census API endpoints, data sources include the Decennial Census, American Community Survey, Poverty Statistics, Population Estimates, and Census microdata. Incorporate ML and Big Data packages such Pandas, Numpy, and many more. "
+  organization: "diginomads"
+  license: "Apache Software License 2.0"
+  minimal_python_version: 3.7
+  github_name: "diginomads"
+  email: "vlad@diginomad.xyz"
+  version: "0.1.0"
+  line_length: "88"
+  create_example_template: "cli"
